@@ -1,0 +1,40 @@
+
+
+body{
+
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: rgba(255, 255, 255, 0.603);
+}
+
+.ete{
+    margin: 0 auto;
+    width: 75%;
+    height: 600px;
+    background-color: #da920d5e;
+}
+.hiver{
+    margin: 0 auto;
+    width: 75%;
+    height: 600px;
+    background-color: rgba(138, 173, 196, 0.438);
+}
+.printemps{
+    margin: 0 auto;
+    width: 75%;
+    height: 600px;
+    background-color: #16c7517c;
+}
+.automne{
+    margin: 0 auto;
+    width: 75%;
+    height: 600px;
+    background-color: #c762048a;
+}
+
